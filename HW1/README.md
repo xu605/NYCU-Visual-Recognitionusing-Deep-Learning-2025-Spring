@@ -9,8 +9,8 @@ This project focuses on **image classification** using **ResNeXt50-32x4d**, a va
 ## **How to Install**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/xu605/NYCU-Visual-Recognitionusing-Deep-Learning-2025-Spring.git
+   cd ./HW1
    ```
 2. Install dependencies:  
    ```bash
