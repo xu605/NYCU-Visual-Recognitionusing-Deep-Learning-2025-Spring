@@ -4,7 +4,7 @@
 **Name:** 劉安之
 
 ## **Introduction**  
-This project focuses on **image classification** using **ResNeXt50-32x4d**, a variant of ResNet that employs **grouped convolutions** to enhance feature extraction. We integrate advanced training techniques such as ** MixUp, CutMix, and label smoothing** to improve model performance.  
+This project focuses on **image classification** using **ResNeXt50-32x4d**, a variant of ResNet that employs **grouped convolutions** to enhance feature extraction. We integrate advanced training techniques such as **MixUp, CutMix, and label smoothing** to improve model performance.  
 
 ## **How to Install**  
 1. Clone the repository:  
